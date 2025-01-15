@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="[./assets/CharlesCapaByLeonardo_hybrid_creature.jpg](https://github.com/Underdarkshadow/Underdarkshadow/blob/main/assets/Controle%20financairo.JPG)"
+    src="https://github.com/Underdarkshadow/Underdarkshadow/blob/main/assets/Controle%20financairo.JPG"
     width="300"
 />
 </p>
