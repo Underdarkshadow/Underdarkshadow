@@ -19,25 +19,23 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Controle Financeiro
 
-https://github.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_editCharles.MP3
+https://github.com/Underdarkshadow/Underdarkshadow/blob/main/assets/CONTROLE%20FINANCEIRO.xlsx
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar Planilhas Inteligentes utilizando ferramentas de IA através de prompts.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [LeonardoAI](https://app.leonardo.ai/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [MICROSOFT EXEL]
 
 ## ✨ Como foi feito ?
 
@@ -49,25 +47,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em Phyton para iniciantes e eu gostaria de sua ajuda sua para criar 9 sugestões de nomes criativos para um podcast de Phyton feito por nerds para atrair o público iniciante e que tenha algum trocadilho NERD no nome. O podcast vai falar sobre dicas sobre o mundo do Phyton para quem está iniciando na linguagem e o que está acontecendo no mercado. {REGRAS} O nome deve ser impactante e ter um nome e um subtítulo O nome tenha algum trocadilho NERD com o nome de franquias conhecidas como harry potter , star wars ou senhor dos anéis mas pode envolver franquias mais antigas O nome deva conter alguma palavra forte que remeta ao tema {PROMPTS NEGATIVOS} Não quero que o título contenha palavras em inglês  Não quero nomes que não sejam marcantes. |
-| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em Phyton cujo o nome é “A Câmara da Serpente: Descubra os mistérios do Python e suas oportunidades. ” e tem foco em programação, com o público alvo de iniciantes em programação Phyton O formato do reoteido deve ser [INTRODUÇÃO] [CURIOSIDADE1] [CURIOSIDADE2] [FINALIZAÇÃO] {REGRAS} •	No bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal ‘ei nerd’, como se fossem escritos pelo Peter Jordan •	No bloco [CURIOSIDADE1] substitua por uma curiosidade de utilização do Phyton •	No bloco [CURIOSIDADE2] sobre uma ferramenta para Python •	No bloco [FINALIZAÇÃO] substitua por uma despedida cool com dinal ‘Eu sou Charles e esse foi o PhytonQuest dessa semana’ •	Use termos de fácil explicação •	O podcast vai ser apresentado somente por uma pessoa, chamada Charles •	O podcast deve ser curto {REGRAS NEGATIVAS} •	Não use muitos termos técnicos •	Não ultrapasse 7 minutos de duração  |
+|  título  | PROMPT UTILIZADO |
+| conteúdo | UTILISE A TABELA DE DADOS CONTIDA NA TABELA ACIMA COMO BASE DE CONHECIMENTO E GERE ALGUNS INSIGHTS DESSA TABELA DE DADOS  |
 
 
-LeonardoAI：
+Observações importantes：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Hyperrealistic image of a half-man half-green serpent with black glasses, matrix stile, inside a cave lookin to the camera and behind him matrix codes |
+| OBS: | (AGORA VC CONSEGUE CONVERSAR COM SEUS GASTOS) NÃO COLOQUE NENHUM DADO SENSÍVEL TIPO CPF OU RG OU NENHUM DOCUMENTO QUE NÃO GOSTARIA QUE FOSSE COMPARTILHADO AO PUBLICO |
 
-- Audio gerado pela elevenLabs
-- Capcut para tratar aúdio e adicionar sons de fundo
-- Tentamos Midjourney Para gerar capas porém não foi possivel em virtude da opção de criação estar descontinuada na versão free por isso Utilizamos LeonardoAI para gerar imagens.
-
-## 📚 Materiais
-
-- [Link da live original no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 ## 👨‍💻 Expert
 
